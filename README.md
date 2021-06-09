@@ -11,19 +11,19 @@ They can also browse all matched played by a team for a given year.
 
 Simply lists all the IPL Teams in a grid.
 
-![Home Page](/README/homePage.jpg)
+![Home Page](/README/homePage.png)
 
 ### Team Page
 
 Shows Win/Loss pie chart and latest matches.
 
-![Team Page Page](/README/teamPage.jpg)
+![Team Page Page](/README/teamPage.png)
 
 ### Matches Page
 
 Lists all the matches for a team for a particular year.
 
-![Matches Page](/README/matchesPage.jpg)
+![Matches Page](/README/matchesPage.png)
 
 ## Technologies
 
