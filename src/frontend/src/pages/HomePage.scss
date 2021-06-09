@@ -1,0 +1,17 @@
+.HomePage {
+    .team-grid{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-column-gap: 10px;
+        grid-row-gap: 10px;
+
+    }
+
+    .header-section{
+        justify-self: center;
+        align-self: center;
+        padding: 20px;
+        text-align: center;
+        font-size: 1.5rem;
+    }
+}
